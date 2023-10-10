@@ -1,38 +1,37 @@
-# Spike Leung
+# 林宇航
+> **期望工作岗位: Java研发工程师**
+## 基本信息
+|                    |                |             |              |
+|:-------------------|----------------|-------------|--------------|
+|邮箱|联系方式|籍贯|出生日期||
+| t4ki598@163.com | 18120800617  | 福建福州 | 1996.09 | 
 
-|                    |                |             |              |                |
-|--------------------|----------------|-------------|--------------|----------------|
-| 📧 email@email.com | ☎️ 12345678987  | 🌐 Shanghai | 🎂 2000 / 01 | 🗓️ 2010 - 2020  |
-
-## 📜 WORK EXPERIENCE
-### Future Technology Co., Ltd
+## 工作经历
+### 朴朴科技
  |                     |                            |
- |---------------------|---------------------------:|
- | Front-End Developer | August 2017 - January 2019 |
+ |---------------------|----------------------------|
+ | 服务端研发工程师 | 2020.11 - 2023.10 | 
 
-- Worked with design,product,and back-end teams to create 12 web products.
-- Created 3 efficent and resusable front-end systems to drive web applications to marketplace.
-- Worked with design,product,and back-end teams to create 12 web products.
-- Created 3 efficent and resusable front-end systems to drive web applications to marketplace.
-- Worked with design,product,and back-end teams to create 12 web products.
-- Created 3 efficent and resusable front-end systems to drive web applications to marketplace.
+- 公司的经营战略要求搭建精细化的商品体系和库存体系。在司期间参与了商品和库存相关体系的建设。
+- 主要负责的业务是库存体系建设，目标为搭建契合朴朴业务链的库存系统，同时随着业务的发展，迭代更新库存体系，以适应业务要求，并维护系统的稳定运行。工作内容主要包括:
+    - 基于MySQL、ElasticSearch等中间件向其他业务域提供库存相关的读、写接口；
+    - 基于Canal、Kafka、Elasticsearch搭建实时库存变更日志、进销存、溯源等系统，供内部同事查询库存流向，供财务审计检查、核对财务合规；
+    - 基于Grafana搭建系统SLI/SLO看板，结合Kibana日志系统等发现系统中的漏洞进行优化，维护系统的稳定；
+    - 参与库存相关、但不限于库存的业务需求的讨论和设计。
+- 在持续建设后，当前：
+    - 支持单台机器万级别的TPS、百万级别的QPS；
+    - 降低了系统存在的隐患，包括优化了多项Elasticsearch、MySQL等相关的90%以上慢查、解决了代码设计不合理产生的死锁问题、优化了伴随业务增长带来产生的数据库、redis的系统负载等；
+    - 参与讨论，提出并主导设计了两项P0/P1业务项目的技术方案。
 
-### Future Technology Co., Ltd
-|                     |                            |
-|---------------------|---------------------------:|
-| Front-End Developer | August 2017 - January 2019 |
 
-- Worked with design,product,and back-end teams to create 12 web products.
-- Created 3 efficent and resusable front-end systems to drive web applications to marketplace.
-- Worked with design,product,and back-end teams to create 12 web products.
-- Created 3 efficent and resusable front-end systems to drive web applications to marketplace.
-- Worked with design,product,and back-end teams to create 12 web products.
-- Created 3 efficent and resusable front-end systems to drive web applications to marketplace.
+## 工作技能
+- 熟悉Java的基础知识，具有良好的编程习惯以及技术文档的编写习惯；
+- 熟悉常用的数据结构和算法、TCP/IP 相关协议、操作系统基本原理； 
+- 熟练使用MySQL、Elasticsearch、Redis等数据库中间件，熟悉查询优化和事务管理，有MySQL和ElasticSearch的优化经验；
+- 了解Spring、SpringBoot、Canal、Kafka等开源框架的使用。
 
-## 🔨 SKILLS
-`JavaScript`，`CSS`，`HTML`
-
-## 📚 EDUCATION
-|                      |                      |                       |
-|----------------------|----------------------|-----------------------|
-| Princeton University | Computer Engineering | Sept 2000 - June 2004 |
+## 教育经历
+|                      |                      |                       |                       |
+|----------------------|----------------------|-----------------------|-----------------------|
+| 福建师范大学 | 光学工程 | 硕士 | 2019.09 - 2021.12 |
+| 黑龙江大学 | 软件工程 | 本科 |2014.09 - 2018.06 |
